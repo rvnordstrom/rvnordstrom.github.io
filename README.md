@@ -13,4 +13,9 @@ Co-owner, General Manager
 - Applied time series analysis and trend analysis techniques using R-Studio to forecast revenue and identify seasonal patterns, enhancing financial reporting accuracy.
 - Oversaw financial operations including client invoicing and profitability tracking to support data-driven decision-making.
 
+# Compass Behavioral Solutions, Charlottesville, VA
+Applied Behavioral Analysis Clinician, Care Coordinator
+- Empowered clients to achieve significant milestones in behavioral, social, and emotional development, contributing to a noticeable improvement in their overall quality of life.
+- Collaborated with multidisciplinary teams, including speech therapists and outpatient services, to integrate therapy goals and ensure cohesive, holistic care that reinforced client progress across settings.
+
 
