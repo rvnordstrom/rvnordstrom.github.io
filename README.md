@@ -19,3 +19,5 @@ Applied Behavioral Analysis Clinician, Care Coordinator
 - Collaborated with multidisciplinary teams, including speech therapists and outpatient services, to integrate therapy goals and ensure cohesive, holistic care that reinforced client progress across settings.
 
 
+
+
